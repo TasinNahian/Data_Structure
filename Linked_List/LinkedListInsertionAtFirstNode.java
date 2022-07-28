@@ -1,5 +1,5 @@
 // Instertion at first node in LinkedList
-public class LinkedListInsertion
+public class LinkedListInsertionAtFirstNode
 {
 	Node head;
 	int count = 0;
@@ -45,7 +45,7 @@ public class LinkedListInsertion
 	}
 	public static void main(String args [])
 	{
-		LinkedListInsertion list = new LinkedListInsertion();
+		LinkedListInsertionAtFirstNode list = new LinkedListInsertionAtFirstNode();
 		//as it is LinkedList insertion therefore every value 
 		//will be inserted fist and first value inserted will be 
 		//at the last

@@ -2,16 +2,16 @@ import com.sun.source.tree.Tree;
 
 public class TreeTraversal
 {
-    static class Node
-    {
-        int key;
-        Node left, right;
-        Node(int item)
-        {
-            key = item;
-            left = right = null;
-        }
-    }
+//    static class Node
+//    {
+//        int key;
+//        Node left, right;
+//        Node(int item)
+//        {
+//            key = item;
+//            left = right = null;
+//        }
+//    }
 
     //===========================
 
